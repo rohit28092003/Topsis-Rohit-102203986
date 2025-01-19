@@ -1,5 +1,6 @@
 # Topsis
 TOPSIS( Technique for order for preference by similarity to Ideal solution ) for MCDM (Multiple criteria decision making) in Python compiled by Rohit Deepchandani, 102203986, TIET, Patiala. 
+Package Link to my Tospis package on pypi.org- https://pypi.org/project/Topsis-Rohit-102203986/1.0.1/
 
 ## Installation
 ```pip install Topsis-Rohit-102203986==1.0.1```
