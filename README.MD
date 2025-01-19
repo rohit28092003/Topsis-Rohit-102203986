@@ -2,7 +2,7 @@
 TOPSIS( Technique for order for preference by similarity to Ideal solution ) for MCDM (Multiple criteria decision making) in Python compiled by Rohit Deepchandani, 102203986, TIET, Patiala. 
 
 ## Installation
-```pip install Topsis-Rohit-102203986```
+```pip install Topsis-Rohit-102203986==1.0.1```
 
 ## Usage
 Enter csv filename followed by .csv extentsion, then enter the weights vector with vector values separated by commas, followed by the impacts vector with comma separated signs (+,-) and enter the output file name followed by .csv extension.
